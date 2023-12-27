@@ -3,9 +3,20 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "MavenPro";
+  src: url(fonts/MavenPro-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url(fonts/OpenSans-VariableFont_wdth_wght.ttf);
+}
+
 html {
   --brown-bg: #9e6d52;
   --green-bg: #0a846e;
+  --nav-text: #055647;
 }
 
 .hero {
@@ -44,4 +55,24 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+nav {
+  width: 1001px;
+  height: 60px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0 4px 4px #03382f1c;
+}
+
+a {
+  color: var(--nav-text);
+  text-decoration: none;
+  text-align: center;
+  font-family: "MavenPro", Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
 }
