@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  --brown-bg: #9e6d52;
+  --green-bg: #0a846e;
+}
