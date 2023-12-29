@@ -160,7 +160,7 @@
 
   .button-container {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
   }
 
   .show-more-btn {
@@ -174,5 +174,6 @@
     font-weight: 600;
     font-family: "Inter", Verdana, Geneva, Tahoma, sans-serif;
     box-shadow: 0 4px 4px #00000040;
+    margin-bottom: 0px;
   }
 }
