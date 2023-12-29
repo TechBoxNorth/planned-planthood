@@ -1,0 +1,67 @@
+.add-plant {
+  font-family: "OpenSans", Verdana, Geneva, Tahoma, sans-serif;
+  width: 926px;
+  height: 232px;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 33% 33% 33%;
+}
+
+.add-plant h1 {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.add-plant input {
+  height: 45px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px #00000030;
+}
+
+.add-plant .title {
+  grid-column: 1/3;
+  grid-row: 1/2;
+}
+
+.add-plant .plant {
+  grid-column: 1/2;
+  grid-row: 2/3;
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.add-plant .date {
+  grid-column: 2/3;
+  grid-row: 2/3;
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.add-plant .add-btn {
+  grid-column: 1/3;
+  grid-row: 3/4;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.add-plant .add-btn button {
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
+  width: 192px;
+  height: 63px;
+  border: none;
+  border-radius: 9px;
+  background-color: var(--green-bg);
+  box-shadow: 0 4px 4px #00000030;
+}
