@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 59 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-198.244,-198.658)">
+        <g id="burger" transform="matrix(1,0,0,1,194.244,198.658)">
+            <path d="M4,4.5C4,2.015 6.015,0 8.5,0L58.5,0C60.985,0 63,2.015 63,4.5C63,6.985 60.985,9 58.5,9L8.5,9C6.015,9 4,6.985 4,4.5ZM4,23.5C4,21.015 6.015,19 8.5,19L58.5,19C60.985,19 63,21.015 63,23.5C63,25.985 60.985,28 58.5,28L8.5,28C6.015,28 4,25.985 4,23.5ZM4,42.5C4,40.015 6.015,38 8.5,38L58.5,38C60.985,38 63,40.015 63,42.5C63,44.985 60.985,47 58.5,47L8.5,47C6.015,47 4,44.985 4,42.5Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
