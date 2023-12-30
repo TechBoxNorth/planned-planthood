@@ -1,0 +1,34 @@
+@media screen and (max-width: 600px) {
+  footer {
+    width: 100%;
+    margin-top: 80px;
+  }
+
+  .four-pics {
+    width: 100%;
+    height: 336px;
+    background-color: var(--brown-bg);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px;
+  }
+
+  .four-pics img {
+    width: 220px;
+    height: 277px;
+  }
+
+  .to-top {
+    width: 100%;
+  }
+
+  .to-top h1 {
+    color: black;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 24px;
+    font-weight: 400;
+  }
+}

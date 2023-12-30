@@ -7,6 +7,20 @@
   box-shadow: 0 6px 6px #00000040;
 }
 
+.burger {
+  width: 0px;
+  height: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  position: fixed;
+  text-align: right;
+}
+
+.burger img {
+  width: 0px;
+  height: 0px;
+}
+
 .hero {
   width: 1000px;
   height: 540px;
